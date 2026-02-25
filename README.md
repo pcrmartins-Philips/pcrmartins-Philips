@@ -144,10 +144,10 @@ done
 <div align="center">
 
 ```
-priscilla@github:~$ echo "Vamos conectar! 🚀"
+priscilla@github:~$ echo "Vamos conectar!"
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pricrmartins)
 
 ---
 
@@ -156,7 +156,7 @@ priscilla@github:~$ echo "Vamos conectar! 🚀"
 ```
 priscilla@github:~$ exit
 Logout
-Connection to github.com closed. 👋
+Connection to github.com closed.
 ```
 
 </div>
