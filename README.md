@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou a Pri! 👋✨
+# Olá, eu sou a Pri! :)
 
-### `> Programadora de Software @ Philips | Blumenau/SC 🇧🇷`
+### `> Programadora de Software`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Dev+apaixonada+por+tecnologia;Transformando+caf%C3%A9+em+c%C3%B3digo;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
@@ -16,9 +16,8 @@
 const pri = {
     nome: "Priscilla de Castro Romeiro Martins da Silva",
     apelido: "Pri",
-    localização: "Blumenau/SC 🌧️ (sim, chove muito aqui!)",
-    trabalho: "Programadora de Software @ Philips 💙",
-    formação: "pós-graduação em Engenharia de IA Aplicada - UNIPDS🎓",
+    trabalho: "Programadora de Software @Philips 💙",
+    formação: "pós-graduanda em Engenharia de IA Aplicada - UNIPDS🎓",
     curiosidades: [
         "Transformo café em código desde 2013 ☕",
         "Trabalho com sistemas de saúde (EMR Tasy) 🏥",
@@ -26,7 +25,7 @@ const pri = {
         "Em Java, tudo é um objeto... menos minha paciência com NullPointerException 😅",
         "typeof NaN === 'number' // JS: onde até NaN é um número 🤯"
     ],
-    objetivo: "Explorar o universo da IA para otimizar meu trabalho e dominar tudo que envolve esse mundo! 🤖🚀"
+    objetivo: "Explorar o universo da IA para otimizar meu trabalho e dominar tudo que envolve esse mundo! 🤖"
 };
 ```
 
@@ -64,7 +63,6 @@ const pri = {
 ```
 🏥 Trabalho com tecnologia para saúde — meu código pode literalmente salvar vidas!
 🌍 Blumenau: cerveja, programação e Oktoberfest. Não necessariamente nessa ordem.
-🎮 Meus primeiros projetos? Jogos em Java! (confere nos repos fixados 👀)
 🐛 Debugar PL/SQL me deu superpoderes de paciência.
 📚 Nunca paro de estudar — o mundo de TI não deixa mesmo!
 ```
@@ -74,12 +72,6 @@ const pri = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pcrmartins-Philips&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcrmartins-Philips&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcrmartins-Philips&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
